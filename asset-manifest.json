@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60f40899.chunk.css",
+    "main.js": "/static/js/main.e0263fbc.chunk.js",
+    "main.js.map": "/static/js/main.e0263fbc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e682c5b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e682c5b.js.map",
+    "static/css/2.8a75941f.chunk.css": "/static/css/2.8a75941f.chunk.css",
+    "static/js/2.888e8816.chunk.js": "/static/js/2.888e8816.chunk.js",
+    "static/js/2.888e8816.chunk.js.map": "/static/js/2.888e8816.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f71416f4d8410dd8b8eef48b35edf378.js": "/precache-manifest.f71416f4d8410dd8b8eef48b35edf378.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8a75941f.chunk.css.map": "/static/css/2.8a75941f.chunk.css.map",
+    "static/css/main.60f40899.chunk.css.map": "/static/css/main.60f40899.chunk.css.map",
+    "static/js/2.888e8816.chunk.js.LICENSE.txt": "/static/js/2.888e8816.chunk.js.LICENSE.txt",
+    "static/media/profile.scss": "/static/media/demian.c1ee40ac.jpg",
+    "static/media/banner.scss": "/static/media/banner.e0ed71a9.svg",
+    "static/media/contactIcon.scss": "/static/media/wechat.b0cdd1ae.svg",
+    "static/media/topNav.scss": "/static/media/logo.2a58207f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e682c5b.js",
+    "static/css/2.8a75941f.chunk.css",
+    "static/js/2.888e8816.chunk.js",
+    "static/css/main.60f40899.chunk.css",
+    "static/js/main.e0263fbc.chunk.js"
+  ]
+}
