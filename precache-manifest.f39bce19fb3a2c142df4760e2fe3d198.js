@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b5871e836a787949dcf8301a9701a1b",
+    "revision": "ba1c5dfb2fe8b6d280c9e83f688ff03e",
     "url": "/index.html"
   },
   {
-    "revision": "f8a741252fcbb69d91fd",
+    "revision": "b2ab1b0c951603a0c06a",
     "url": "/static/css/2.d4ed7c3a.chunk.css"
   },
   {
-    "revision": "c6a26975a75bea6cead2",
-    "url": "/static/css/main.60a19de9.chunk.css"
+    "revision": "dea401a1214203a99b2f",
+    "url": "/static/css/main.73eb03c4.chunk.css"
   },
   {
-    "revision": "f8a741252fcbb69d91fd",
-    "url": "/static/js/2.540c6ab0.chunk.js"
+    "revision": "b2ab1b0c951603a0c06a",
+    "url": "/static/js/2.65c7ad0a.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/static/js/2.540c6ab0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.65c7ad0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6a26975a75bea6cead2",
-    "url": "/static/js/main.4d53f6ce.chunk.js"
+    "revision": "dea401a1214203a99b2f",
+    "url": "/static/js/main.768c14f7.chunk.js"
   },
   {
     "revision": "c2f98a5c387da539a513",
@@ -80,12 +80,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gzt.ebce3e02.svg"
   },
   {
+    "revision": "14f1474644c07069041088ff2e98398d",
+    "url": "/static/media/hosptial.14f14746.svg"
+  },
+  {
     "revision": "e61326e9ca611828bf3275bfc139998c",
     "url": "/static/media/littleP.e61326e9.svg"
   },
   {
     "revision": "2a58207f0d94d423f926b2185fe7e8f5",
     "url": "/static/media/logo.2a58207f.svg"
+  },
+  {
+    "revision": "427265b48c54d56af2c744c699234af8",
+    "url": "/static/media/mall.427265b4.png"
   },
   {
     "revision": "cf8ca593d3a48aa549972ffe0c198a0f",
@@ -106,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "42cf75184d3d22810be401986e0dd9eb",
     "url": "/static/media/redux.42cf7518.svg"
+  },
+  {
+    "revision": "b72fb474e433e735099be7cee86a42e9",
+    "url": "/static/media/standardization.b72fb474.svg"
   },
   {
     "revision": "816673a793064f9309fef58c77edc659",
