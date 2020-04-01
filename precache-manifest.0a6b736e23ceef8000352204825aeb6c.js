@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba1c5dfb2fe8b6d280c9e83f688ff03e",
+    "revision": "9a0525a920a65a298bd01a3139668e89",
     "url": "/index.html"
   },
   {
-    "revision": "b2ab1b0c951603a0c06a",
-    "url": "/static/css/2.d4ed7c3a.chunk.css"
+    "revision": "555e344d687ded043cb2",
+    "url": "/static/css/2.0da549d5.chunk.css"
   },
   {
-    "revision": "dea401a1214203a99b2f",
-    "url": "/static/css/main.73eb03c4.chunk.css"
+    "revision": "fc53d6fcde4763a1cde8",
+    "url": "/static/css/main.11f9e044.chunk.css"
   },
   {
-    "revision": "b2ab1b0c951603a0c06a",
-    "url": "/static/js/2.65c7ad0a.chunk.js"
+    "revision": "555e344d687ded043cb2",
+    "url": "/static/js/2.934ab495.chunk.js"
   },
   {
-    "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/static/js/2.65c7ad0a.chunk.js.LICENSE.txt"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/static/js/2.934ab495.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dea401a1214203a99b2f",
-    "url": "/static/js/main.768c14f7.chunk.js"
+    "revision": "fc53d6fcde4763a1cde8",
+    "url": "/static/js/main.3aac65d6.chunk.js"
   },
   {
-    "revision": "c2f98a5c387da539a513",
-    "url": "/static/js/runtime-main.5e682c5b.js"
+    "revision": "228fa098814da32aa5c2",
+    "url": "/static/js/runtime-main.e1daef6b.js"
   },
   {
     "revision": "f44337c61e024786db94b1575c9349cb",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e0ed71a99554332bdfd067c63ca3f211",
     "url": "/static/media/banner.e0ed71a9.svg"
+  },
+  {
+    "revision": "18b0b35c8afe00567d2a09b5e10d9a0a",
+    "url": "/static/media/close.18b0b35c.svg"
   },
   {
     "revision": "7e83c48903c709083fb0b9ece5778b45",
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "14f1474644c07069041088ff2e98398d",
     "url": "/static/media/hosptial.14f14746.svg"
+  },
+  {
+    "revision": "156d284566bcbb98ad601aa5b65787b5",
+    "url": "/static/media/list.156d2845.svg"
   },
   {
     "revision": "e61326e9ca611828bf3275bfc139998c",
